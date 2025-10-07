@@ -4,3 +4,15 @@
     box-shadow: 0 0 4px rgba(255, 0, 0, 0.5);
 }
 
+.accordion-button:focus {
+    border-color: #dc3545;
+    box-shadow: 0 0 4px rgba(255, 0, 0, 0.5);
+
+}
+
+.accordion-button:not(.collapsed) {
+    background-color: #dc3545;
+    color: white;
+    box-shadow: 0 0 4px rgba(255, 0, 0, 0.5);
+
+}

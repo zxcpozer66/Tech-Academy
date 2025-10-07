@@ -14,3 +14,5 @@
 2. `Запустить index.html`
 
 ## Github pages
+
+https://zxcpozer66.github.io/Tech-Academy/
